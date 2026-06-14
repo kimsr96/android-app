@@ -1,0 +1,6 @@
+{
+  "name": "Meeting Notes",
+  "description": "An offline-first meeting notes and recorder, featuring active note highlights, auto-formatting, and intelligent Gemini AI meeting and decision summarizations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
